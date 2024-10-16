@@ -53,8 +53,8 @@
         <mxCell id="IrzSOC0ikjODqD1h2LZV-60" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Job de Coleta CR7&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="540.5" y="380" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IrzSOC0ikjODqD1h2LZV-63" value="&lt;b style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 16px; text-align: left;&quot;&gt;ZV13&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="139.99999999999997" width="80" height="41.04" as="geometry" />
+        <mxCell id="IrzSOC0ikjODqD1h2LZV-63" value="&lt;b style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 16px; text-align: left;&quot;&gt;ZV13&lt;br&gt;Alocação&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="160" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IrzSOC0ikjODqD1h2LZV-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IrzSOC0ikjODqD1h2LZV-64" target="IrzSOC0ikjODqD1h2LZV-56">
           <mxGeometry relative="1" as="geometry" />
@@ -62,8 +62,8 @@
         <mxCell id="IrzSOC0ikjODqD1h2LZV-64" value="&lt;b style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 16px; text-align: left;&quot;&gt;ZVBCT0008&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="350" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IrzSOC0ikjODqD1h2LZV-67" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Processo de alocação&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="95" y="240" width="190" height="30" as="geometry" />
+        <mxCell id="IrzSOC0ikjODqD1h2LZV-68" value="&lt;b style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 16px; text-align: left;&quot;&gt;ZV13&lt;br&gt;Alocação&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="170" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
