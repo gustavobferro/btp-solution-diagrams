@@ -47,8 +47,8 @@
         <mxCell id="IrzSOC0ikjODqD1h2LZV-56" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;color: rgb(29, 45, 62); font-family: arial; text-align: left; text-wrap: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Tabela&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;b style=&quot;color: rgb(29, 45, 62); font-family: arial; text-align: left; text-wrap: nowrap; font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;ZVBCT0013_CR7&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="369" y="350" width="129" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="IrzSOC0ikjODqD1h2LZV-60" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Coleta CR7&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="600" y="386" width="110" height="30" as="geometry" />
+        <mxCell id="IrzSOC0ikjODqD1h2LZV-60" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;3- Coleta CR7&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="601.5" y="388.2" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IrzSOC0ikjODqD1h2LZV-63" value="&lt;div&gt;&lt;b style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 16px; text-align: left;&quot;&gt;Estoque SAP&lt;br&gt;ZV13&lt;/b&gt;&lt;b style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 16px; text-align: left;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="116.10000000000001" width="110" height="56" as="geometry" />
@@ -71,7 +71,7 @@
         <mxCell id="IrzSOC0ikjODqD1h2LZV-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IrzSOC0ikjODqD1h2LZV-98" target="IrzSOC0ikjODqD1h2LZV-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IrzSOC0ikjODqD1h2LZV-98" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;Cálculo CR7&lt;br&gt;DD_PAR_G_053_B_14_ENVIO_PECA_B2C&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="IrzSOC0ikjODqD1h2LZV-98" value="&lt;font face=&quot;arial&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;b&gt;2- Cálculo CR7&lt;br&gt;DD_PAR_G_053_B_14_ENVIO_PECA_B2C&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="165" y="254.89999999999998" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="IrzSOC0ikjODqD1h2LZV-103" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot;&gt;&lt;b&gt;Clona&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
@@ -84,10 +84,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IrzSOC0ikjODqD1h2LZV-108" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job" vertex="1" parent="1">
-          <mxGeometry x="85" y="120.10000000000001" width="50" height="48" as="geometry" />
+          <mxGeometry x="89" y="120.10000000000001" width="50" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="IrzSOC0ikjODqD1h2LZV-109" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;Alocação de Peças&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="45" y="163.99999999999997" width="130" height="30" as="geometry" />
+        <mxCell id="IrzSOC0ikjODqD1h2LZV-109" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;1- Alocação de Peças&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="40" y="163.99999999999997" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IrzSOC0ikjODqD1h2LZV-113" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Atualiza&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="150" y="120.1" width="60" height="30" as="geometry" />
