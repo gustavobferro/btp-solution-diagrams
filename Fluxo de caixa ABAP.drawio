@@ -16,11 +16,17 @@
         <mxCell id="6z_-niMH7R3TJKptT-WV-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="301.5" width="50" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-12" target="6z_-niMH7R3TJKptT-WV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-12" value="Função: Y_S4_OMM_CXS_CONTRATADAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="370" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-13" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;Jobs CAP&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="421.5" y="208.40000000000003" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-16" target="6z_-niMH7R3TJKptT-WV-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-16" value="&lt;span style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 14px; text-align: left;&quot;&gt;Tabelas&lt;br&gt;YMMFI_EXTR_CR&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;text-wrap: nowrap; color: rgb(29, 45, 62); font-family: arial; font-size: 14px; text-align: left;&quot;&gt;YMMFI_EXTR_DB&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="760" width="123" height="58" as="geometry" />
@@ -55,11 +61,20 @@
         <mxCell id="6z_-niMH7R3TJKptT-WV-35" value="&lt;font size=&quot;1&quot; face=&quot;arial&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 12px;&quot;&gt;HANA Cloud&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="395" y="120.00000000000003" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-36" target="6z_-niMH7R3TJKptT-WV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-36" value="Função:&amp;nbsp;&lt;div&gt;Y_S4_OMM_SOCIOS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="440" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-37" target="6z_-niMH7R3TJKptT-WV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-37" value="Função:&amp;nbsp;&lt;div&gt;Y_S4_OMM_CONTR_TRANSF&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-38" target="6z_-niMH7R3TJKptT-WV-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-38" value="Função:&amp;nbsp;&lt;div&gt;Y_S4_OMM_EVENT_PARC&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="580" width="220" height="60" as="geometry" />
@@ -73,8 +88,14 @@
         <mxCell id="6z_-niMH7R3TJKptT-WV-40" value="Função:&lt;div&gt;&amp;nbsp;Y_S4_OMM_EXTR_CRED&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="790" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-41" target="6z_-niMH7R3TJKptT-WV-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-41" value="Função:&lt;div&gt;&amp;nbsp;Y_S4_OMM_COTAS&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="720" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-42" target="6z_-niMH7R3TJKptT-WV-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-42" value="Função: Y_S4_OMM_EVENT_CONTR_ENTREG" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="650" width="220" height="60" as="geometry" />
@@ -86,10 +107,10 @@
           <mxGeometry x="400" y="760" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-56" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="355" width="250" height="295" as="geometry" />
+          <mxGeometry x="515" y="355" width="250" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="6z_-niMH7R3TJKptT-WV-53" value="&lt;div&gt;Classe&lt;/div&gt;&lt;div&gt;&amp;nbsp;ZCL_ZGW_MMFI_FLUXO_CX_DPC_EXT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Métodos/entidades: Y_S4_OMM_CXS_CONTRATADAS&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="526" y="400" width="230" height="80" as="geometry" />
+        <mxCell id="6z_-niMH7R3TJKptT-WV-53" value="&lt;div&gt;Classe&lt;/div&gt;&lt;div&gt;&amp;nbsp;ZCL_ZGW_MMFI_FLUXO_CX_DPC_EXT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Métodos/entidades:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CXSCONTRSET_GET_ENTITYSET&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;SOCIOSSET_GET_ENTITYSET&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;CONTRTRANSFSET_GET_ENTITYSET&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;EVTPARCSET_GET_ENTITYSET&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;EVTCONTRENTRSET_GET_ENTITYSET&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;COTASSET_GET_ENTITYSET&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div&gt;EXTRCREDSET_GET_ENTITYSET&lt;/div&gt;&lt;div&gt;EXTRDEBSET_GET_ENTITYSET&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="400" width="230" height="190" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-55" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;Gateway&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;ZGW_MMFI_FLUXO_CAIXA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="545" y="355" width="180" height="40" as="geometry" />
