@@ -10,8 +10,8 @@
         <mxCell id="6z_-niMH7R3TJKptT-WV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="340" width="780" height="600" as="geometry" />
         </mxCell>
-        <mxCell id="6z_-niMH7R3TJKptT-WV-3" value="&lt;font color=&quot;#1a2733&quot; face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;S4&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;fontFamily=Helvetica;strokeWidth=1.5;" vertex="1" parent="1">
-          <mxGeometry x="85" y="300" width="40" height="30" as="geometry" />
+        <mxCell id="6z_-niMH7R3TJKptT-WV-3" value="&lt;font color=&quot;#1a2733&quot; face=&quot;arial&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;S4HANA&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;fontFamily=Helvetica;strokeWidth=1.5;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300.5" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-4" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/SAP_HANA_on_Azure.svg;" vertex="1" parent="1">
           <mxGeometry x="40" y="301.5" width="50" height="25" as="geometry" />
