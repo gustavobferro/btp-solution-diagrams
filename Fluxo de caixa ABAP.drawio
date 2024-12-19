@@ -85,8 +85,11 @@
         <mxCell id="6z_-niMH7R3TJKptT-WV-43" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;FLUXO_CAIXAS_PGMP_DIARIO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="400" y="760" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6z_-niMH7R3TJKptT-WV-53" value="Função: Y_S4_OMM_CXS_CONTRATADAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="400" width="220" height="60" as="geometry" />
+        <mxCell id="6z_-niMH7R3TJKptT-WV-56" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="1">
+          <mxGeometry x="515" y="355" width="250" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-53" value="&lt;div&gt;Classe&lt;/div&gt;&lt;div&gt;&amp;nbsp;ZCL_ZGW_MMFI_FLUXO_CX_DPC_EXT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Métodos/entidades: Y_S4_OMM_CXS_CONTRATADAS&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="526" y="400" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-55" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;Gateway&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;ZGW_MMFI_FLUXO_CAIXA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="545" y="355" width="180" height="40" as="geometry" />
