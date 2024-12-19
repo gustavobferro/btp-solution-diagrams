@@ -88,6 +88,9 @@
         <mxCell id="6z_-niMH7R3TJKptT-WV-53" value="Função: Y_S4_OMM_CXS_CONTRATADAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="400" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-55" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;Gateway&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;ZGW_MMFI_FLUXO_CAIXA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="545" y="355" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
