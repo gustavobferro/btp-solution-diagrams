@@ -29,7 +29,7 @@
           <mxGeometry x="670" y="760" width="123" height="58" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-19" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job" vertex="1" parent="1">
-          <mxGeometry x="480" y="712" width="50" height="48" as="geometry" />
+          <mxGeometry x="480" y="731" width="50" height="48" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-30" target="6z_-niMH7R3TJKptT-WV-40">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-43" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;FLUXO_CAIXAS_PGMP_DIARIO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="400" y="760" width="210" height="30" as="geometry" />
+          <mxGeometry x="400" y="779" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-56" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0070F2;strokeWidth=1.5;arcSize=16;fillColor=#FFFFFF;perimeterSpacing=0;absoluteArcSize=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="355" width="250" height="255" as="geometry" />
@@ -112,6 +112,9 @@
         <mxCell id="6z_-niMH7R3TJKptT-WV-55" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;Gateway&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;ZGW_MMFI_FLUXO_CAIXA&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#1D2D3E;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="545" y="355" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-65" target="6z_-niMH7R3TJKptT-WV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-65" value="OData service: ZGW_MMFI_FLUXO_CAIXA_SRV" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="246.5" width="220" height="80" as="geometry" />
         </mxCell>
@@ -122,7 +125,10 @@
           <mxGeometry x="500" y="110.00000000000003" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6z_-niMH7R3TJKptT-WV-17" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=job" vertex="1" parent="1">
-          <mxGeometry x="520" y="69.99999999999994" width="40" height="38.4" as="geometry" />
+          <mxGeometry x="520" y="74.99999999999994" width="40" height="38.4" as="geometry" />
+        </mxCell>
+        <mxCell id="6z_-niMH7R3TJKptT-WV-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="6z_-niMH7R3TJKptT-WV-17" target="6z_-niMH7R3TJKptT-WV-32">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
